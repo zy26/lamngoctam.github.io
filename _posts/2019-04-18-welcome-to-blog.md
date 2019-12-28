@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-`Waring!` 
+`Warning!` 
 
 This is the first step to build the blog through [github][github] and [Jekyll][jekyll-docs].
 This blog was forked from [Minimal Mistakes GitHub Pages][Minimal-Mistakes]
