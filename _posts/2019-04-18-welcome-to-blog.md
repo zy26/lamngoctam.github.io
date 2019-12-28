@@ -12,6 +12,7 @@ tags:
 
 This is the first step to build the blog through [github][github] and [Jekyll][jekyll-docs].
 This blog was forked from [Minimal Mistakes GitHub Pages][Minimal-Mistakes]
+
 Jekyll can offers powerful support for code snippets which I can show the code within my blog:
 
 ```ruby
