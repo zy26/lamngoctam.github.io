@@ -28,6 +28,7 @@ tags:
     - [ ] [Introduction to Python](https://ga.greyatom.com/learn/programs/introduction-to-python)
     - [ ] [Python3 Tutorials](https://docs.python.org/3/tutorial/)
     - [ ] [Practice Python Coding at Leetcode.com](https://leetcode.com/problemset/all/)
+    - [ ] [A2A from Quora.com](https://www.quora.com/How-should-I-start-learning-Python-1)
     
     **Tip from Daniel Bourke**:
     1. ***Courses***
