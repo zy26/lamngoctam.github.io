@@ -194,9 +194,13 @@ $a^2 + b^2 = \frac{b}{c}$
 
 $\sum_{n = 1}^{\infty} \frac{1}{n} = \infty$
 
+\[a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty\]
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" title="a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty" /></a>
 
 ```
+\[a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty\]
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" title="a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty" /></a>
 
 ## Tables
