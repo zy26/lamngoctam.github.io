@@ -188,6 +188,16 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
+## Maths formula
+```
+$a^2 + b^2 = \frac{b}{c}$
+
+$\sum_{n = 1}^{\infty} \frac{1}{n} = \infty$
+```
+$a^2 + b^2 = \frac{b}{c}$
+
+$\sum_{n = 1}^{\infty} \frac{1}{n} = \infty$
+
 ## Tables
 ```
 Colons can be used to align columns.
@@ -291,14 +301,15 @@ Method 1:
 ```
 https://www.youtube.com/watch?v=04eOsL5vrWc
 ```
+
 https://www.youtube.com/watch?v=04eOsL5vrWc
 
 Method 2:
 
 ```
-[![ ](https://www.youtube.com/watch?v=yimlIZEJwPY)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ```
-[![ ](https://www.youtube.com/watch?v=yimlIZEJwPY)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 
