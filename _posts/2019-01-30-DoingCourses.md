@@ -9,18 +9,18 @@ tags:
 
 ## I. Programmimg
 ### Python
-  - Basic 
-    - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
-    - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
-  - Intermediate
-    - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
-    - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
-    - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
-      Programming for Everybody (Getting Started with Python)
-      Python Data Structures
-      Using Python to Access Web Data
-      Using Databases with Python
-      Capstone: Retrieving, Processing, and Visualizing Data with Python
+- Basic 
+  - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
+  - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
+- Intermediate
+  - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
+  - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
+  - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
+   - Programming for Everybody (Getting Started with Python)
+   - Python Data Structures
+   - Using Python to Access Web Data
+   - Using Databases with Python
+   - Capstone: Retrieving, Processing, and Visualizing Data with Python
       
 ### C++
   - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
