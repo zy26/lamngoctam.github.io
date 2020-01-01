@@ -7,7 +7,7 @@ tags:
   - Todo
 ---
 
-## I. Programmimg
+## I. Programmimg :yum:
 ### Python
 - Basic 
   - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
