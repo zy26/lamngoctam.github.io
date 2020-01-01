@@ -1,7 +1,7 @@
 This is the guide to use markdown in Github.
 
 Reference:
- - [Markdown Cheatsheet]((https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) by Adam Pritchard
+ - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard
  - [Mastering Marwdown](https://guides.github.com/features/mastering-markdown/#examples) by Github guide
  - [Github page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
  - [Github support emoji!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
