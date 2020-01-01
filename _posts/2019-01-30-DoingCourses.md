@@ -34,6 +34,11 @@ tags:
 ### 3. Matlab :relaxed:
 - [ ] [Machine Learning Onramp](https://matlabacademy.mathworks.com/R2019b/portal.html?course=machinelearning#chapter=2&lesson=4&section=1) (free course)
 
+## II. Machine Learning
+- Basic
+  - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford
+- Advanced
+
 ## II. Algorithm 	:money_mouth_face:
 - [ ] [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) by Dr. Tim RoughGarden – Stanford (free to watch videos but pay to do assignment). 
   - [ ] [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms]()
@@ -57,8 +62,20 @@ tags:
   1. Basic
   2. Advance
     
-### Reference:
-- [An Nguyen](https://scratchrobotics.com/courses/) :wink:
-  
+### Blogs
+- [AI-ML-DL](https://ongxuanhong.wordpress.com/2017/09/04/ai-machine-learning-deep-learning-phan-biet-nhu-the-nao-cho-dung/#more-13839)
+- [ML road - Ong Xuan Hong](https://ongxuanhong.wordpress.com/2017/05/18/con-duong-hoc-tap-machine-learning-cua-toi/)
+  - Giải tích (Analytics) - tìm độ lỗi cực tiểu cho mô hình, cực đại hóa khả năng
+  - Đại số tuyến tính (Linear algebra) - nhân ma trận trong xử lý ảnh, biểu diễn và thao tác sử dụng bảng
+  - Toán rời rạc (Discrete mathematics) - hỗ trợ phép đếm trong xác suất
+  - Lý thuyết đồ thị (Graph theory) - phân tích mạng xã hội
+  - Xác suất thống kê (Statistics and probability) - xây dựng mô hình dự đoán dựa vào dữ liệu quá khứ "educated gues"
+- [Machine Learning Mastery](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
+### References :wink:
+- [An Nguyen](https://scratchrobotics.com/courses/) 
+- [machinelearningcoban.com](https://machinelearningcoban.com/2018/09/11/forum/)
+- [ongxuanhong](https://ongxuanhong.wordpress.com/)
+- 
   
   
