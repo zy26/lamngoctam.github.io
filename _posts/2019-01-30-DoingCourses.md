@@ -22,15 +22,15 @@ tags:
    - Using Databases with Python
    - Capstone: Retrieving, Processing, and Visualizing Data with Python
       
-### C++
+### C++ :heart_eyes:
 - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
 - [C++ for Programmer](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
 - [C++ Tutorial on Youtube by Derek Banas ](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
   
-### Matlab
+### Matlab :relaxed:
 - [Machine Learning Onramp](https://matlabacademy.mathworks.com/R2019b/portal.html?course=machinelearning#chapter=2&lesson=4&section=1) (free course)
 
-## II. Algorithm
+## II. Algorithm 	:money_mouth_face:
 - [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) by Dr. Tim RoughGarden – Stanford (free to watch videos but pay to do assignment). 
   - [ ] [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms]()
   - [ ] [Course 2: Graph Search, Shortest Paths, and Data Structures]() from UNIVERSITY OF CALIFORNIA SAN DIEGO
@@ -45,13 +45,13 @@ tags:
 - [Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923) on Udacity (free materials and taught by GATech professor)
 - [Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074) by MIT on Youtube
 
-## III. Software
-- ROS
+## III. Software 
+- ROS :hugs:
   1. Basic
   2. Advance
     
 ### Reference:
-- [An Nguyen](https://scratchrobotics.com/courses/)
+- [An Nguyen](https://scratchrobotics.com/courses/) :wink:
   
   
   
