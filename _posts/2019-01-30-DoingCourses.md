@@ -8,7 +8,7 @@ tags:
 ---
 
 ## I. Programmimg :yum:
-### Python
+### 1.Python
 - Basic 
   - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
   - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
@@ -16,19 +16,18 @@ tags:
   - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
   - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
   - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
-  ```
-        - Programming for Everybody (Getting Started with Python)
+  ```   - Programming for Everybody (Getting Started with Python)
         - Python Data Structures
         - Using Python to Access Web Data
         - Using Databases with Python
         - Capstone: Retrieving, Processing, and Visualizing Data with Python
   ```    
-### C++ :heart_eyes:
+### 2.C++ :heart_eyes:
 - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
 - [ ] [C++ for Programmer](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
 - [ ] [C++ Tutorial on Youtube by Derek Banas ](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
   
-### Matlab :relaxed:
+### 3.Matlab :relaxed:
 - [ ] [Machine Learning Onramp](https://matlabacademy.mathworks.com/R2019b/portal.html?course=machinelearning#chapter=2&lesson=4&section=1) (free course)
 
 ## II. Algorithm 	:money_mouth_face:
