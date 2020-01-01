@@ -36,7 +36,7 @@ tags:
 
 ## II. Machine Learning
 - Basic
-  - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford
+  - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml)
 - Advanced
 
 ## II. Algorithm 	:money_mouth_face:
