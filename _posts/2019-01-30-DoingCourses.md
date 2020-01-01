@@ -40,6 +40,9 @@ tags:
 - Advanced
 
 ## II. Algorithm 	:money_mouth_face:
+- [ ] [Coursera-Algorithm part1](https://www.coursera.org/learn/algorithms-part1/) by Princeton University
+  - [book-online](https://algs4.cs.princeton.edu/home/)
+  - [Source Code](https://github.com/kevin-wayne/algs4)
 - [ ] [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) by Dr. Tim RoughGarden – Stanford (free to watch videos but pay to do assignment). 
   - [ ] [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms]()
   - [ ] [Course 2: Graph Search, Shortest Paths, and Data Structures]() from UNIVERSITY OF CALIFORNIA SAN DIEGO
