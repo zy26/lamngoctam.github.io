@@ -23,3 +23,6 @@ Lesson | Title | Description
 2 | Prediction | In this lesson you'll learn how to use data from sensor fusion to generate predictions about the likely behavior of moving objects.
 3 | Behavior Planning | In this lesson you'll learn how to think about high level behavior planning in a self-driving car.
 4 | Trajectory Generation | In this lesson, you’ll use C++ and the Eigen linear algebra library to build candidate trajectories for the vehicle to follow.
+
+## Discrete Path Planning
+- [Text book by Steven M. LaValle - University of Illinois](http://planning.cs.uiuc.edu/ch2.pdf)
