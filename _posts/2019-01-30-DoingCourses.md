@@ -16,11 +16,11 @@ tags:
   - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
   - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
   - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
-   - [ ] Programming for Everybody (Getting Started with Python)
-   - [ ] Python Data Structures
-   - [ ] Using Python to Access Web Data
-   - [ ] Using Databases with Python
-   - [ ] Capstone: Retrieving, Processing, and Visualizing Data with Python
+        - [ ] Programming for Everybody (Getting Started with Python)
+        - [ ] Python Data Structures
+        - [ ] Using Python to Access Web Data
+        - [ ] Using Databases with Python
+        - [ ] Capstone: Retrieving, Processing, and Visualizing Data with Python
       
 ### C++ :heart_eyes:
 - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
@@ -41,7 +41,7 @@ tags:
 - [ ] [Discrete math by TheTrevTutor](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) on Youtube
 - [ ] [Graph Theory by Sarada Herke](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn) on Youtube
 - [ ] [Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0) by Ravindrabadu Ravula on Youtube
-- [ ] [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) on Coursera <- I aim to read and watch videos for the first 3-4 courses on this specialization
+- [ ] [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics) on Coursera 
 - [ ] [Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923) on Udacity (free materials and taught by GATech professor)
 - [ ] [Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074) by MIT on Youtube
 
