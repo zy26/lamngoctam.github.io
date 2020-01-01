@@ -45,6 +45,9 @@ tags:
 - [ ] [Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923) on Udacity (free materials and taught by GATech professor)
 - [ ] [Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074) by MIT on Youtube
 
+## Robotics
+### [ ] [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/home/welcome) in Coursera by University of Pennsylvania
+
 ## III. Software 
 - ROS :hugs:
   1. Basic
