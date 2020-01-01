@@ -15,6 +15,23 @@ Reference:
  - [Github page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#section-links)
  - [Github support emoji!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+$$
+\begin{bmatrix}
+K_{00} & K_{10} &  K_{20}&1&x_0&y_0 \\
+K_{01} & K_{11} &  K_{21}&1&x_1&y_1 \\
+K_{02} & K_{12} &  K_{22}&1&x_2&y_2 \\
+1 & 1 &  1&0&0&0\\
+x_0&x_1&x_2&0&0&0\\
+y_0&y_1&y_2&0&0&0\\
+\end{bmatrix}
+\times
+\begin{bmatrix}
+w_0\\w_1\\w_2\\a_0\\a_x\\a_y
+\end{bmatrix}
+=\begin{bmatrix}y'_0\\y'_1\\y'_2\\0\\0\\0\end{bmatrix}
+$$
+
+
 ```
 # H1
 ## H2
@@ -220,12 +237,12 @@ $a^2 + b^2 = \frac{b}{c}$
 
 $\sum_{n = 1}^{\infty} \frac{1}{n} = \infty$
 
-\[a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty\]
-
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" title="a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty" /></a>
 
 ```
-\[a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty\]
+$a^2 + b^2 = \frac{b}{c}$
+
+$\sum_{n = 1}^{\infty} \frac{1}{n} = \infty$
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^2&space;&plus;&space;b^2&space;=&space;\frac{b}{c}\sum_{n&space;=&space;1}^{\infty}&space;\frac{1}{n}&space;=&space;\infty" title="a^2 + b^2 = \frac{b}{c}\sum_{n = 1}^{\infty} \frac{1}{n} = \infty" /></a>
 
