@@ -1,9 +1,9 @@
 ## I. Programmimg
 ### Python
-  1. Basic 
+  - 1. Basic 
     - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
     - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
-  2. Intermediate
+  - 2. Intermediate
     - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
     - [ ] [](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
 ### C++
