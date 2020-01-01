@@ -1,3 +1,12 @@
+---
+title: "Doing courses"
+date: 2019-01-30
+categories:
+  - blog
+tags:
+  - Todo
+---
+
 ## I. Programmimg
 ### Python
   - Basic 
