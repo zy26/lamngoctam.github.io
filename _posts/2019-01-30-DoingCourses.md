@@ -12,6 +12,7 @@ tags:
 - Basic 
   - [ ] [Python from sololearn](https://www.sololearn.com/Play/Python/#)
   - [ ] [Learnpython.org](https://www.learnpython.org/en/Welcome)
+  - [ ] [Datacamp.com](https://www.datacamp.com/home)
   - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
 - Intermediate
   - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
