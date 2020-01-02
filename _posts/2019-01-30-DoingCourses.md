@@ -54,7 +54,7 @@ tags:
 ## II.2. Deep Learning
 - [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
 
-## II. Algorithm 	:money_mouth_face:
+## III. Algorithm 	:money_mouth_face:
 - [ ] [Coursera-Algorithm part1](https://www.coursera.org/learn/algorithms-part1/) by Princeton University
   - [book-online](https://algs4.cs.princeton.edu/home/)
   - [Source Code](https://github.com/kevin-wayne/algs4)
@@ -72,10 +72,10 @@ tags:
 - [ ] [Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923) on Udacity (free materials and taught by GATech professor)
 - [ ] [Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074) by MIT on Youtube
 
-## III. Robotics
+## IV. Robotics
 - [ ] [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/home/welcome) in Coursera by University of Pennsylvania
 
-## IV. Software 
+## V. Software 
 - ROS :hugs:
   1. Basic
   2. Advance
