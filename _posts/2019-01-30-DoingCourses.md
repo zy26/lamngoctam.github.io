@@ -25,17 +25,19 @@ tags:
         - Using Databases with Python
         - Capstone: Retrieving, Processing, and Visualizing Data with Python
 ```
-
+- Read books and practice Coding
+  - [ ] [Thinking in Python]()
+  
 ### 2. C++ :heart_eyes:
 - Start
   - [ ] [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)  on Youtube by Derek Banas 
 
 - Basic
-  - [ ] [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) (free course from Udemy)
+  - [ ] [C++ Tutorial for Complete Beginners Course](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) (free course from Udemy)
   - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
-  - [ ] [C++ for Programmer](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
+  - [ ] [C++ for Programmer Course](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
 - Advanced
-  - [ ] [Learn Advanced C++ Programming](https://www.udemy.com/course/learn-advanced-c-programming/) (paid course from Udemy by John Purcell)
+  - [ ] [Learn Advanced C++ Programming Course](https://www.udemy.com/course/learn-advanced-c-programming/) (paid course from Udemy by John Purcell)
 - Read books and practice
   - [ ] [Thinking in C++]() by Bruce Eckel
   
@@ -46,7 +48,9 @@ tags:
 - Basic
   - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml)
 - Advanced
-
+- Read books
+  - [ ] [Mathematics for Machine Learning]() by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+  
 ## II.2. Deep Learning
 - [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
 
@@ -79,11 +83,11 @@ tags:
 ### Blogs
 - [AI-ML-DL](https://ongxuanhong.wordpress.com/2017/09/04/ai-machine-learning-deep-learning-phan-biet-nhu-the-nao-cho-dung/#more-13839)
 - [ML road - Ong Xuan Hong](https://ongxuanhong.wordpress.com/2017/05/18/con-duong-hoc-tap-machine-learning-cua-toi/)
-  - Giải tích (Analytics) - tìm độ lỗi cực tiểu cho mô hình, cực đại hóa khả năng
-  - Đại số tuyến tính (Linear algebra) - nhân ma trận trong xử lý ảnh, biểu diễn và thao tác sử dụng bảng
-  - Toán rời rạc (Discrete mathematics) - hỗ trợ phép đếm trong xác suất
-  - Lý thuyết đồ thị (Graph theory) - phân tích mạng xã hội
-  - Xác suất thống kê (Statistics and probability) - xây dựng mô hình dự đoán dựa vào dữ liệu quá khứ "educated gues"
+  - Giải tích (Analytics) `- tìm độ lỗi cực tiểu cho mô hình, cực đại hóa khả năng`
+  - Đại số tuyến tính (Linear algebra) `- nhân ma trận trong xử lý ảnh, biểu diễn và thao tác sử dụng bảng`
+  - Toán rời rạc (Discrete mathematics) `- hỗ trợ phép đếm trong xác suất`
+  - Lý thuyết đồ thị (Graph theory) `- phân tích mạng xã hội`
+  - Xác suất thống kê (Statistics and probability) `- xây dựng mô hình dự đoán dựa vào dữ liệu quá khứ "educated gues"`
 - [Machine Learning Mastery](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ### References :wink:
