@@ -29,15 +29,19 @@ tags:
 ### 2. C++ :heart_eyes:
 - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
 - [ ] [C++ for Programmer](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
+- [ ] [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) (free course from Udacity)
 - [ ] [C++ Tutorial on Youtube by Derek Banas ](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
   
 ### 3. Matlab :relaxed:
 - [ ] [Machine Learning Onramp](https://matlabacademy.mathworks.com/R2019b/portal.html?course=machinelearning#chapter=2&lesson=4&section=1) (free course)
 
-## II. Machine Learning
+## II.1. Machine Learning
 - Basic
   - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml)
 - Advanced
+
+## II.2. Deep Learning
+- [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
 
 ## II. Algorithm 	:money_mouth_face:
 - [ ] [Coursera-Algorithm part1](https://www.coursera.org/learn/algorithms-part1/) by Princeton University
@@ -79,6 +83,6 @@ tags:
 - [An Nguyen](https://scratchrobotics.com/courses/) 
 - [machinelearningcoban.com](https://machinelearningcoban.com/2018/09/11/forum/)
 - [ongxuanhong](https://ongxuanhong.wordpress.com/)
-- 
+- [Jessica Yung](http://www.jessicayung.com/portfolio-item/self-driving-car-engineer-nanodegree/)
   
   
