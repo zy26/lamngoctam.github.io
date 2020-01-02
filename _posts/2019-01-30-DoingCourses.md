@@ -52,7 +52,8 @@ tags:
   - [ ] [Mathematics for Machine Learning]() by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
   
 ## II.2. Deep Learning
-- [Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
+- [ ] [Intro to TensorFlow for Deep Learning Course](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
+- [ ] [Course1: Neural Networks and Deep Learning](https://www.coursera.org/) in Deep Learning Specializaton by Coursera **Doing**
 
 ## III. Algorithm 	:money_mouth_face:
 - [ ] [Coursera-Algorithm part1](https://www.coursera.org/learn/algorithms-part1/) by Princeton University
