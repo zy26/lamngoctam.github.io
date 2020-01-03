@@ -7,17 +7,17 @@ tags:
   - blog
   - Courses
 ---
-# Programming
-## Matlab
+## Programming
+1. Matlab
 
 ![alttext](/assets/images/MatlabOnramp.jpg)
 
-## Python
+2. Python
 
-## C++
+3. C++
 
-## Robotics
-## Motion Planning - Path Planning
+### Robotics
+1. Motion Planning - Path Planning
 
 ![alttext](/assets/images/MotionPlanning.png)
 
