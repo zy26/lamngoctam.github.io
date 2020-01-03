@@ -10,7 +10,7 @@ tags:
 `Updating: doing online courses from 2019 to 2021`
 
 This is a plan to take coures which supports to my research skills and prepares for my future jobs.
-Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/)
+Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Notes that I will update new courses into the list regularly.
 
 ## Programming
 - 1.Matlab
