@@ -10,7 +10,7 @@ tags:
 # Programming
 ## Matlab
 
-![alt text](/assets/images/MatlabOnramp.png)
+![alt text](/assets/images/MatlabOnramp.jpg)
 
 ## Python
 
