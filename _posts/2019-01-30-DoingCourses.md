@@ -99,5 +99,6 @@ tags:
 - [machinelearningcoban.com](https://machinelearningcoban.com/2018/09/11/forum/)
 - [ongxuanhong](https://ongxuanhong.wordpress.com/)
 - [Jessica Yung](http://www.jessicayung.com/portfolio-item/self-driving-car-engineer-nanodegree/)
+- [ ] [Implementing a Neural network from scratch by Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
   
   
