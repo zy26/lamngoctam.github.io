@@ -8,19 +8,19 @@ tags:
   - Courses
 ---
 ## Programming
-- 1. Matlab
+- 1.Matlab
 ![alttext](/assets/images/MatlabOnramp.jpg)
 
-- 2. Python
+- 2.Python
   - [ ] Python for Data Science (__Doing__)
       
-- 3. C++
+- 3.C++
   - [ ] [Advanced C++ in Udemy]() (__Doing__)
   
 ### Robotics
-- 1. Motion Planning - Path Planning
+- 1.Motion Planning - Path Planning
 ![alttext](/assets/images/MotionPlanning.png)
 
 
-- 2. Introduction to Self-Driving Car
+- 2.Introduction to Self-Driving Car
   - [ ] [Doing]()
