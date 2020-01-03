@@ -10,7 +10,7 @@ tags:
 # Programming
 ## Matlab
 
-![alt text](/assets/images/MatlabOnramp.jpg)
+![alttext](/assets/images/MatlabOnramp.jpg)
 
 ## Python
 
@@ -19,5 +19,5 @@ tags:
 ## Robotics
 ## Motion Planning - Path Planning
 
-![alt text](/assets/images/MotionPlanning.png)
+![alttext](/assets/images/MotionPlanning.png)
 
