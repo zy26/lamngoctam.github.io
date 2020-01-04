@@ -30,7 +30,7 @@ Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Not
 ### Robotics
 - 1.Motion Planning - Path Planning
   ![alttext](/assets/images/MotionPlanning.png)
-- 2.Perception
+- 2.[Perception](https://www.coursera.org/learn/robotics-perception/home/welcome)
   - [x] Week1
   - [ ] Week2 3 4
 - 3.Introduction to Self-Driving Car
