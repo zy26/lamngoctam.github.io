@@ -46,7 +46,7 @@ tags:
 
 ## II.1. Machine Learning
 - Basic
-  - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml)
+  - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml) or [Chinese ref](https://blog.csdn.net/a1015553840/article/list/2)
 - Advanced
 - Read books
   - [ ] [Mathematics for Machine Learning]() by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
@@ -111,3 +111,4 @@ tags:
 - [ ] [Implementing a Neural network from scratch by Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [ ] [Reviews on Udacity and Capston Project in Coursera](https://jwdinius.github.io/projects/)  
 - [ ] [Blog for Online Courses](https://aden-q.github.io/categories/Note/page/2/)  
+- [ ] [ML from Chinese websites](https://blog.csdn.net/a1015553840/article/list/2)
