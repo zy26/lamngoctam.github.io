@@ -78,7 +78,14 @@ tags:
 
 ## IV. Robotics
 - [ ] [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning/home/welcome) in Coursera by University of Pennsylvania
-
+- [ ] [Perception](https://www.coursera.org/learn/robotics-perception/home/welcome)
+  - [x] Week1.
+  - [ ] Week2 3 4
+- __Notes__: How to run file.p
+  - Run >> cd 'C:\Disk\folder\submit.p' in Command Window in Matlab
+  - Run >> dir - to see all the file
+  - Run >> submit then Enter ( do not run >> submit.p)
+  
 ## V. Software 
 - ROS :hugs:
   1. Basic
