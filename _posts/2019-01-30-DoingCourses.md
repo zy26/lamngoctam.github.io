@@ -107,5 +107,5 @@ tags:
 - [ongxuanhong](https://ongxuanhong.wordpress.com/)
 - [Jessica Yung](http://www.jessicayung.com/portfolio-item/self-driving-car-engineer-nanodegree/)
 - [ ] [Implementing a Neural network from scratch by Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
-  
+- [ ] [Reviews on Udacity and Capston Project in Coursera](https://jwdinius.github.io/projects/)  
   
