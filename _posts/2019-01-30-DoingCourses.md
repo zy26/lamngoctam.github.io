@@ -55,6 +55,7 @@ tags:
 - __Course__
   - [ ] [Intro to TensorFlow for Deep Learning Course](https://classroom.udacity.com/courses/ud187) by Udacity - Read [Jessica Yung's Blog](http://www.jessicayung.com/how-ive-been-learning-to-code/)
   - [ ] [Course1: Neural Networks and Deep Learning](https://www.coursera.org/) in Deep Learning Specializaton by Coursera - **Doing**
+  - [ ] [Reference for the Courses](https://aden-q.github.io/categories/Note/page/2/)  
 - __Reading__  
   - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen 
   
@@ -81,6 +82,7 @@ tags:
 - [ ] [Perception](https://www.coursera.org/learn/robotics-perception/home/welcome)
   - [x] Week1.
   - [ ] Week2 3 4
+  - [ ] [Reference for the Courses](https://aden-q.github.io/categories/Note/page/2/)  
 - __Notes__: How to run file.p
   - Run >> cd 'C:\Disk\folder\submit.p' in Command Window in Matlab
   - Run >> dir - to see all the file
@@ -108,4 +110,4 @@ tags:
 - [Jessica Yung](http://www.jessicayung.com/portfolio-item/self-driving-car-engineer-nanodegree/)
 - [ ] [Implementing a Neural network from scratch by Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [ ] [Reviews on Udacity and Capston Project in Coursera](https://jwdinius.github.io/projects/)  
-  
+- [ ] [Blog for Online Courses](https://aden-q.github.io/categories/Note/page/2/)  
