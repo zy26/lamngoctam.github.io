@@ -23,11 +23,15 @@ Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Not
       
 - 3.C++
   - [ ] [Advanced C++ in Udemy]() (__Doing__)
+- 4.Neural Networks and Deep Learning
+  - [x] Week1
+  - [ ] Week2 3 4
   
 ### Robotics
 - 1.Motion Planning - Path Planning
   ![alttext](/assets/images/MotionPlanning.png)
-
-
+- 2. Perception
+  - [x] Week1
+  - [ ] Week2 3 4
 - 2.Introduction to Self-Driving Car
   - [ ] [Doing]()
