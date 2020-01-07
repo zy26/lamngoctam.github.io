@@ -26,13 +26,16 @@ Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Not
 - 4.Neural Networks and Deep Learning
   - [x] Week1
   - [x] Week2 3 4
-    ![alttext](/assets/images/NNDL.png)
+  ![alttext](/assets/images/NNDL.png)
   
 ### Robotics
 - 1.Motion Planning - Path Planning
   ![alttext](/assets/images/MotionPlanning.png)
 - 2.[Perception](https://www.coursera.org/learn/robotics-perception/home/welcome)
   - [x] Week1
-  - [ ] Week2 3 4
+  - [x] Week2 
+  - [x] Week3
+  - [x] Week4
+  ![alttext](/assets/images/Perception.png)
 - 3.Introduction to Self-Driving Car
   - [ ] [Doing]()
