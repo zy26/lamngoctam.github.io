@@ -14,8 +14,9 @@ tags:
   - [ ] [Learnpython.org](https://www.learnpython.org/en/Welcome)
   - [ ] [Datacamp.com](https://www.datacamp.com/home)
   - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
+  - [ ] [Python tutorials in Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) by __Corey Schafer__
 - Intermediate
-  - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by Corey Schafer (free)
+  - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by __Corey Schafer__ (free)
   - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
   - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
   
