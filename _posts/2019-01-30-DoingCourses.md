@@ -14,7 +14,8 @@ tags:
   - [ ] [Learnpython.org](https://www.learnpython.org/en/Welcome)
   - [ ] [Datacamp.com](https://www.datacamp.com/home)
   - [ ] [Introduction to Python for Data Science](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=11) (Free Course)
-  - [ ] [Python tutorials in Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) by __Corey Schafer__
+  - [ ] [Python tutorials on Youtube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) by __Corey Schafer__
+  - [ ] [Python Full course on Youtube](https://www.youtube.com/watch?v=rKaN8JC70Iw&list=PLEiEAq2VkUUKoW1o-A-VEmkoGKSC26i_I) by __Simplilearn__
 - Intermediate
   - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by __Corey Schafer__ (free)
   - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
@@ -48,6 +49,7 @@ tags:
 ## II.1. Machine Learning
 - Basic
   - [ ] [Machine Learning Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng - offered by Stanford - [ref](https://github.com/gopaczewski/coursera-ml) or [Chinese ref](https://blog.csdn.net/a1015553840/article/list/2)
+  - [ ] [Machine Learning Full Course](https://www.youtube.com/watch?v=9f-GarcDY58&list=PLEiEAq2VkUULB6YBZRsLFOUiiANy5-EvW) from Youtube __Simplilearn__
 - Advanced
 - Read books
   - [ ] [Mathematics for Machine Learning]() by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
