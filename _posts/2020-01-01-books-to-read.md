@@ -8,7 +8,7 @@ tags:
   - books
 ---
 
-## List of books shoule be read in 2020
+## List of books should be read in 2020
 - [Becoming a Better Programmer - CPlusPlus](https://github.com/lamngoctam/lamngoctam.github.io/blob/master/assets/books/Becoming%20a%20Better%20Programmer%20-%20CPlusPlus.pdf)
 - [Clean Code - A Handbook of Agile Software Scraftsmanship](https://github.com/lamngoctam/lamngoctam.github.io/blob/master/assets/books/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Scraftsmanship.pdf)
 - [Code Complete 2nd Edition](https://github.com/lamngoctam/lamngoctam.github.io/blob/master/assets/books/Code%20Complete%202nd%20Edition.pdf)
