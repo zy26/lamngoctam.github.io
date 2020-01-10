@@ -2,9 +2,11 @@
 title: "Doing courses"
 date: 2019-01-30
 categories:
-  - blog
+  - courses
+  - programming
 tags:
-  - Todo
+  - To-Do
+  - programming
 ---
 
 ## I. Programmimg :yum:
