@@ -2,10 +2,11 @@
 title: "2020 books to read"
 date: 2020-01-01
 categories:
-  - blog
+  - books
 tags:
   - programming
   - books
+  - software engineering
 ---
 
 ## List of books should be read in 2020
