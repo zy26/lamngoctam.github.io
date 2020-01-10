@@ -2,7 +2,7 @@
 title: "Machine Learning with Python"
 date: 2019-01-01
 categories:
-  -Programming
+  - Programming
 tags:
   - Machine Learning
   - Python
