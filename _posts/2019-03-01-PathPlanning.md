@@ -2,9 +2,10 @@
 title: "Path planning"
 date: 2019-03-01
 categories:
-  - blog
+  - courses
+  - papers
 tags:
-  - blog
+  - robotics
   - PathPlanning
 ---
 
