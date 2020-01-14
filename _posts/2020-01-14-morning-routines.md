@@ -8,7 +8,12 @@ tags:
 ---
 
 ## Morning routines
-- Get up at 6:30am everydays
+- Getting up at 5-6:30am everydays
+
+## Habits to body
+- Eating properly
+- Doing exercise
+- Getting enough sleep
 
 ## Concentration
 - Avoid disctraction such as mobile phone, emails, social media
@@ -19,8 +24,8 @@ tags:
 - Doing the hard or big tasks in priority.
 
 ## References
-[1] https://blog.toggl.com/morning-routines-famous-entrepreneurs/
-[2] https://blog.toggl.com/online-timers/
-[3] https://blog.toggl.com/improve-concentration/
-[4] https://www.entrepreneur.com/article/322995
-[5] https://www.entrepreneur.com/article/318565
+- [1] https://blog.toggl.com/morning-routines-famous-entrepreneurs/
+- [2] https://blog.toggl.com/online-timers/
+- [3] https://blog.toggl.com/improve-concentration/
+- [4] https://www.entrepreneur.com/article/322995
+- [5] https://www.entrepreneur.com/article/318565
