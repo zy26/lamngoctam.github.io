@@ -2,10 +2,11 @@
 title: "Online Courses!"
 date: 2019-01-15
 categories:
-  - blog
+  - courses
 tags:
   - blog
-  - Courses
+  - courses
+  - certificates
 ---
 `Updating: doing online courses from 2019 to 2021`
 

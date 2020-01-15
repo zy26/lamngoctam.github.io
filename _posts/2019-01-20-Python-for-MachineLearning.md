@@ -1,3 +1,12 @@
+---
+title: "Machine Learning with Python"
+date: 2019-01-01
+categories:
+  - Programming
+tags:
+  - Machine Learning
+  - Python
+---
 ## Introduction
 Python is one of the best language nowadays. We can use Python in Machine Learning, Deep Learning and its applications implement in Data Science, Robotics, etc.
 I just collect Python programming resources that can help me on doing research.
