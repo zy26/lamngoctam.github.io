@@ -1,9 +1,9 @@
 ---
 Title: "Reviews on AI career"
 Date: 2020-01-15
-Catogery:
+Categories:
   - Career
-Tag:
+Tags:
   - AI
   - skills
 ---
