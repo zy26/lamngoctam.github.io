@@ -50,6 +50,10 @@ can help you have a good plan to prepare future jobs.
 Regression, and Decision Tree learning)
 - Methods to train these models (such as initialization, optimization, regularization, and hyperparameter tuning)
 - Techniques to strategize machine learning projects.
+- Skills
+![alttext](/assets/MLEngineer/ML-DS-skills.png)
+- Tools
+![alttext](/assets/MLEngineer/ML-DS-tools.png)
 
 **Deep learning**
 - Understanding classic deep learning models (such as fully connected networks, convolutional neural networks, recurrent neural
@@ -61,10 +65,6 @@ networks, and layers)
 - Knowing to use probabilities (including distributions, conditional probabilities, independence, Bayes theorem, etc.)
 - Statistics (including hypothesis testing, bias/variance tradeoffs, mean, variance, and mode)
 - Data analysis (including preprocessing, visualization and metrics such as accuracy, R-squared, residuals, precision, and recall).
-
-![alttext](/assets/MLEngineer/ML-DS-skills.png)
-
-![alttext](/assets/MLEngineer/ML-DS-tools.png)
 
 **Mathematics**
 - Linear algebra (for instance, matrix vector operations, eigenvalues, eigenvectors, and combinatorics)
