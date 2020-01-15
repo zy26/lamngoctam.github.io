@@ -80,6 +80,7 @@ networks, and layers)
 protocols, HTTP requests, agile/scrum methodologies, databases, version control (such as Git), containers, and unit testing.
 - Skills
 ![alttext](/assets/MLEngineer/SoftwareEngineering-skills.png)
+
 - Tools
 ![alttext](/assets/MLEngineer/SoftwareEngineering-tools.png)
 
