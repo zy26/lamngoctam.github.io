@@ -62,6 +62,10 @@ networks, and layers)
 - Statistics (including hypothesis testing, bias/variance tradeoffs, mean, variance, and mode)
 - Data analysis (including preprocessing, visualization and metrics such as accuracy, R-squared, residuals, precision, and recall).
 
+![alttext](/assets/MLEngineer/ML-DS-skills.png)
+
+![alttext](/assets/MLEngineer/ML-DS-tools.png)
+
 **Mathematics**
 - Linear algebra (for instance, matrix vector operations, eigenvalues, eigenvectors, and combinatorics)
 - Calculus (derivatives, integrals,...) 
@@ -74,7 +78,12 @@ networks, and layers)
 **Software engineering**
 - Having ability to use a variety of computer science and software methods such as object-oriented programming, internet
 protocols, HTTP requests, agile/scrum methodologies, databases, version control (such as Git), containers, and unit testing.
+- Skills
+![alttext](/assets/MLEngineer/SoftwareEngineering-skills.png)
+- Tools
+![alttext](/assets/MLEngineer/SoftwareEngineering-tools.png)
 
 ## References
 [1] WORKERA - Deeplearning.ai company
+
 [2] https://dev.to/patferraggi/planning-my-career-development-for-2020-4okc
