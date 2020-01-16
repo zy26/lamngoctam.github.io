@@ -27,3 +27,25 @@ tags:
 - `cd mnt` - `ls` - `cd C` now we are working on C folder of window
 - From `/mnt/c/users/ngoct/Projects` we do `$ sudo apt update` to avoid data corruption if we work on the folder in linux subsystem inside window folder.
 - The `$ sudo apt upgrade`
+
+## Working on Visual Studio Code on WSL:Ubuntu
+- **Install**
+
+`tamlam@DESKTOP:/mnt/c/Users/ngoct/Projects/coder$ code.`
+
+- **Setting**
+
+__Ctrl + Shift + P__ in the tab of __c_cpp_properties.json__, change the default setting to __"compilerPath": "/usr/bin/g++"__
+
+![image](/assets/linux/vscode4.png)
+
+- **Run the code** 
+
+`gcc main.cpp -lstdc++ -o main.cpp` in the Terminal on VSCode
+  
+![image](/assets/linux/vscode5.png)
+
+## Reference:
+- [T.Raj - VSCode on WSL:Ubuntu](https://www.youtube.com/watch?v=TC10i_U4qCo&feature=youtu.be) on Youtube - CppCon channel - 25/6/2019
+- [T.Raj - News on VSCode](https://www.youtube.com/watch?v=TC10i_U4qCo&feature=youtu.be) on Youtube - CppCon channel - 18/10/2019
+
