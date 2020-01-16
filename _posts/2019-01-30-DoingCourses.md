@@ -34,8 +34,8 @@ tags:
   
 ### 2. C++ :heart_eyes:
 - Start
-  - [ ] [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)  on Youtube by Derek Banas 
-
+  - [ ] [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)  on Youtube by __Derek Banas__ 
+  - [ ] [Let's Learn C++](https://www.youtube.com/watch?v=_r5i5ZtUpUM&list=PL82YdDfxhWsCyZLsg_kXhH8sy5ixQNras&index=1) on Youtube by __Trevor Payne__
 - Basic
   - [ ] [C++ Tutorial for Complete Beginners Course](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) (free course from Udemy)
   - [ ] [C++ from sololearn](https://www.sololearn.com/Play/CPlusPlus)
