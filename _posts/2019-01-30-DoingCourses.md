@@ -118,3 +118,4 @@ tags:
 - [ ] [Blog for Online Courses](https://aden-q.github.io/categories/Note/page/2/)  
 - [ ] [ML from Chinese websites](https://blog.csdn.net/a1015553840/article/list/2)
 - [ ] [Source codes for books in Python](https://github.com/PacktPublishing) by __Packt Publishing__
+- [ ] [Blog of C++ experts](http://cppnow.org/)
