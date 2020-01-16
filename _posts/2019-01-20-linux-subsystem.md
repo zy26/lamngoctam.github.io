@@ -26,7 +26,7 @@ tags:
 - `cd /` then `ls` we can see the root of subsystem. __mnt__ is the C folder of Window
 - `cd mnt` - `ls` - `cd C` now we are working on C folder of window
 - From `/mnt/c/users/ngoct/Projects` we do `$ sudo apt update` to avoid data corruption if we work on the folder in linux subsystem inside window folder.
-- The `$ sudo apt upgrade`
+- Next is to upgrade `$ sudo apt upgrade`.
 
 ## Working on Visual Studio Code on WSL:Ubuntu
 - **Install**
