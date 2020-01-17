@@ -19,9 +19,9 @@ tags:
 ![image](/assets/linux/LinuxSubsystem5.png)
 
 ## Working on Ubuntu bash
-- If we do `ls` command, there is nothing here.
-- `cd /` then `ls` we can see the root of subsystem. __mnt__ is the C folder of Window
-- `cd mnt` - `ls` - `cd C` now we are working on C folder of window
+- If we do `$ ls` command, there is nothing here.
+- `$ cd /` then `$ ls` we can see the root of subsystem. __mnt__ is the C folder of Window
+- `cd mnt` - `$ ls` - `$ cd C` now we are working on C folder of window
 - From `/mnt/c/users/ngoct/Projects` we do `$ sudo apt update` to avoid data corruption if we work on the folder in linux subsystem inside window folder.
 - Next is to upgrade `$ sudo apt upgrade`.
 
@@ -29,7 +29,7 @@ tags:
 - **Install**
 
   - `tamlam@DESKTOP:/mnt/c/Users/ngoct/Projects/coder$ code.`
-  - Create a new file: `touch main.cpp`
+  - Create a new file: `$ touch main.cpp`
 
 - **Setting**
 
@@ -39,7 +39,8 @@ __Ctrl + Shift + P__ in the tab of __c_cpp_properties.json__, change the default
 
 - **Run the code** 
 
-`gcc main.cpp -lstdc++ -o main.o` in the Terminal on VSCode
+`$ gcc main.cpp -lstdc++ -o main.o` then 
+`$ ./main.o` in the Terminal on VSCode
   
 ![image](/assets/linux/vscode5.png)
 
