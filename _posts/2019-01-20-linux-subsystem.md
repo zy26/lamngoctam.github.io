@@ -47,4 +47,4 @@ __Ctrl + Shift + P__ in the tab of __c_cpp_properties.json__, change the default
 ## Reference:
 - [T.Raj - VSCode on WSL:Ubuntu](https://www.youtube.com/watch?v=TC10i_U4qCo&feature=youtu.be) on Youtube - CppCon channel - 25/6/2019
 - [T.Raj - News on VSCode](https://www.youtube.com/watch?v=TC10i_U4qCo&feature=youtu.be) on Youtube - CppCon channel - 18/10/2019
-
+- [Windows 10 Bash & Linux Subsystem Setup](https://www.youtube.com/watch?v=Cvrqmq9A3tA)
