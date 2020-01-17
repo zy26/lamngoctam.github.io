@@ -39,7 +39,7 @@ __Ctrl + Shift + P__ in the tab of __c_cpp_properties.json__, change the default
 
 - **Run the code** 
 
-`gcc main.cpp -lstdc++ -o main.cpp` in the Terminal on VSCode
+`gcc main.cpp -lstdc++ -o main.o` in the Terminal on VSCode
   
 ![image](/assets/linux/vscode5.png)
 
