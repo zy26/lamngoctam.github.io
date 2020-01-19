@@ -42,6 +42,7 @@ tags:
   - [ ] [C++ for Programmer Course](https://www.udacity.com/course/c-for-programmers--ud210) (free course from Udacity)
 - Advanced
   - [ ] [Learn Advanced C++ Programming Course](https://www.udemy.com/course/learn-advanced-c-programming/) (paid course from Udemy by John Purcell)
+  - [ ] [Youtube](https://www.youtube.com/watch?v=WaY7BnLQiTg&list=PLw_k9CF7hBpJKHeOFXOHOyy_KuR06aLqt)
 - Read books and practice
   - [ ] [Thinking in C++]() by Bruce Eckel
   
@@ -107,6 +108,9 @@ tags:
   - Lý thuyết đồ thị (Graph theory) `- phân tích mạng xã hội`
   - Xác suất thống kê (Statistics and probability) `- xây dựng mô hình dự đoán dựa vào dữ liệu quá khứ "educated gues"`
 - [Machine Learning Mastery](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
+### Webdevelopments
+- https://www.youtube.com/channel/UC1ofxnYkvcTI79_ycsZ4Zgg
 
 ### References :wink:
 - [ ] [An Nguyen](https://scratchrobotics.com/courses/) 
