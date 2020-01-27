@@ -28,18 +28,18 @@ Mac OSX/Linux | Window | Definitions
 **mv** | **mv** | move a file or directory
 **less** | **more** | page through a file
 **cat** | **type** | print the whole file
-**xargs** | **** | execute arguments
+**xargs** |  | execute arguments
 **find** | **dir -r** | find files
 **grep** | **select-string** | find things inside files
 **man** | **help** | read a manual page
 **apropos** | **helpctr** | find what man page is appropriate
-**env** | **** | look at your environment
+**env** |  | look at your environment
 **echo** | **echo** | print some arguments
 **export** | **set** | export/set a new environment variable
 **exit** | **exit** | exit the shell
 **sudo** | **runas** | DANGER! become super user root DANGER!
 **chmod** | **attrib** | change permission modifiers
 **chown** | **iCACLS** | change ownership
-**** | **forfiles** | run a command on lots of files
+ | **forfiles** | run a command on lots of files
 
 ## Paths, Folders, Directories (pwd)
