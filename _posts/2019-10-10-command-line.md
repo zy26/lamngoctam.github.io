@@ -14,6 +14,7 @@ Mac OSX | Linux | Window
 COMMAND + spacebar | Shell/Terminal | Powershell
 
 ## Command
+
 | Mac OSX/Linux | Window | Definitions |
 | ---- | --- | --- |
 | **pwd** | **pwd** | print working directory |
