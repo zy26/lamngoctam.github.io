@@ -40,6 +40,6 @@ Mac OSX/Linux | Window | Definitions
 **sudo** | **runas** | DANGER! become super user root DANGER!
 **chmod** | **attrib** | change permission modifiers
 **chown** | **iCACLS** | change ownership
- | **forfiles** | run a command on lots of files
+. | **forfiles** | run a command on lots of files
 
 ## Paths, Folders, Directories (pwd)
