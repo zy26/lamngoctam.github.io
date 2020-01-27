@@ -43,4 +43,9 @@ COMMAND + spacebar | Shell/Terminal | Powershell
 | **chown** | **iCACLS** | change ownership |
 | . | **forfiles** | run a command on lots of files |
 
-## Paths, Folders, Directories (pwd)
+## Example: Paths, Folders, Directories (pwd)
+
+| Mac OSX/Linux | Window | Result |
+| ---- | --- | --- |
+| $ pwd |  PS C:\Users\zed> pwd | path |
+
