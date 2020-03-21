@@ -32,7 +32,9 @@ tags:
   - Create a new file: `$ touch main.cpp`
 
 - **Setting**
-
+  - Fix error:
+  ![image](/assets/linux/vs_error1.png)
+  ![image](/assets/linux/vs_error2.png)
 __Ctrl + Shift + P__ in the tab of __c_cpp_properties.json__, change the default setting to __"compilerPath": "/usr/bin/g++"__
 
 ![image](/assets/linux/vscode4.png)
