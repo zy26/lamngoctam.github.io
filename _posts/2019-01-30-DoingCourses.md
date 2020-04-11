@@ -22,6 +22,7 @@ tags:
   - [ ] [Python Object Oriented Programming](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) on Youtube by __Corey Schafer__ (free)
   - [ ] [Python Beyond Basics – Object Oriented Programming on Udemy](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/) (paid course)
   - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Michigan
+  - [ ] [Python blog - The Web Dev](https://thewebdev.info/category/python/)
   
 ```   - Programming for Everybody (Getting Started with Python)
         - Python Data Structures
@@ -34,6 +35,7 @@ tags:
   
 ### 2. C++ :heart_eyes:
 - Start
+  - [ ] [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4) by Caleb Curry
   - [ ] [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)  on Youtube by __Derek Banas__ 
   - [ ] [Let's Learn C++](https://www.youtube.com/watch?v=_r5i5ZtUpUM&list=PL82YdDfxhWsCyZLsg_kXhH8sy5ixQNras&index=1) on Youtube by __Trevor Payne__
 - Basic
@@ -45,7 +47,12 @@ tags:
   - [ ] [Youtube](https://www.youtube.com/watch?v=WaY7BnLQiTg&list=PLw_k9CF7hBpJKHeOFXOHOyy_KuR06aLqt)
 - Read books and practice
   - [ ] [Thinking in C++]() by Bruce Eckel
+  - [ ] [C++ __GeeksforGeeks__](https://www.geeksforgeeks.org/c-plus-plus/) :heart_eyes:
+  - [ ] [Thinking in C++ __MIT Vol.2__](http://web.mit.edu/merolish/ticpp/TicV2.html#_Toc53985602)
   
+### __Practice__
+- LeetCode: [Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+- 
 ### 3. Matlab :relaxed:
 - [ ] [Machine Learning Onramp](https://matlabacademy.mathworks.com/R2019b/portal.html?course=machinelearning#chapter=2&lesson=4&section=1) (free course)
 
