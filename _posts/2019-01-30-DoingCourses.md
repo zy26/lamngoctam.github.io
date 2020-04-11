@@ -49,6 +49,7 @@ tags:
   - [ ] [Thinking in C++]() by Bruce Eckel
   - [ ] [C++ __GeeksforGeeks__](https://www.geeksforgeeks.org/c-plus-plus/) :heart_eyes:
   - [ ] [Thinking in C++ __MIT Vol.2__](http://web.mit.edu/merolish/ticpp/TicV2.html#_Toc53985602)
+  - [ ] [Learn C++ from Microsoft](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
   
 ### __Practice__
 - LeetCode: [Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
