@@ -99,11 +99,11 @@ Invoke catkin_make_isolated:
 $ sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic
 ```
 Note: This will install ROS in the equivalent file location to Ubuntu in /opt/ros/melodic however you can modify this as you wish.
-`
-With older raspberries it is recommended to increase the add swap space. Also recommended to decrease the compilation thread count with the -j1 or -j2 option instead of the default -j4 option:
 
+With older raspberries it is recommended to increase the add swap space. Also recommended to decrease the compilation thread count with the -j1 or -j2 option instead of the default -j4 option:
+```
 $ sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic -j2
-`
+```
 Now ROS should be installed! Remember to source the new installation:
 ```
 $ source /opt/ros/melodic/setup.bash
@@ -112,3 +112,37 @@ Or optionally source the setup.bash in the ~/.bashrc, so that ROS environment va
 ```
 $ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 ```
+### 2.8.Maintaining a Source Checkout
+If we want to keep our source checkout up to date, we will have to periodically update our rosinstall file, download the latest sources, and rebuild our workspace.
+
+#### 2.8.1.Update the workspace
+To update your workspace, first move your existing rosinstall file so that it doesn't get overwritten, and generate an updated version. For simplicity, we will cover the *destop-full* variant. For other variants, update the filenames and rosinstall_generator arguments appropriately.
+
+```
+$ mv -i melodic-desktop-full.rosinstall melodic-desktop-full.rosinstall.old
+$ rosinstall_generator desktop_full --rosdistro melodic --deps --tar > melodic-desktop-full.rosinstall
+```
+Then, compare the new rosinstall file to the old version to see which packages will be updated:
+```
+$ diff -u melodic-desktop-full.rosinstall melodic-desktop-full.rosinstall.old
+```
+If you're satisfied with these changes, incorporate the new rosinstall file into the workspace and update your workspace:
+```
+$ wstool merge -t src melodic-desktop-full.rosinstall
+$ wstool update -t src
+```
+#### 2.8.2.Rebuild your workspace
+Now that the workspace is up to date with the latest sources, rebuild it:
+```
+$ ./src/catkin/bin/catkin_make_isolated --install
+```
+__If you specified the --install-space option when your workspace initially, you should specify it again when rebuilding your workspace__
+
+Once your workspace has been rebuilt, you should source the setup files again:
+```
+$ source ~/ros_catkin_ws/install_isolated/setup.bash
+```
+### References:
+1. https://qengineering.eu/install-ubuntu-18.04-on-raspberry-pi-4.html
+2. http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi
+3. https://www.instructables.com/id/Getting-Started-With-ROS-Melodic-on-Raspberry-Pi-4/
