@@ -76,18 +76,39 @@ If wstool init fails or is interrupted, you can resume the download by running:
 ```
 wstool update -j4 -t src
 ```
-### Resolve Dependencies
+### 2.6.Resolve Dependencies
 Before you can build your catkin workspace, you need to make sure that you have all the required dependencies. We use the rosdep tool for this.
 
-#### Resolving Dependencies with rosdep
+#### 2.6.1.Resolving Dependencies with rosdep
 The dependencies should be resolved by running rosdep:
 ```
 $ cd ~/ros_catkin_ws
 $ rosdep install -y --from-paths src --ignore-src --rosdistro melodic -r --os=debian:buster
 ```
-
 This will look at all of the packages in the src directory and find all of the dependencies they have. Then it will recursively install the dependencies.
 
 The --from-paths option indicates we want to install the dependencies for an entire directory of packages, in this case src. The --ignore-src option indicates to rosdep that it shouldn't try to install any ROS packages in the src folder from the package manager, we don't need it to since we are building them ourselves. The --rosdistro option is required because we don't have a ROS environment setup yet, so we have to indicate to rosdep what version of ROS we are building for. Finally, the -y option indicates to rosdep that we don't want to be bothered by too many prompts from the package manager.
 
 After a while rosdep will finish installing system dependencies and you can continue.
+
+### 2.7.Building the catkin Workspace
+Once you have completed downloading the packages and have resolved the dependencies, you are ready to build the catkin packages.
+
+Invoke catkin_make_isolated:
+```
+$ sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic
+```
+Note: This will install ROS in the equivalent file location to Ubuntu in /opt/ros/melodic however you can modify this as you wish.
+`
+With older raspberries it is recommended to increase the add swap space. Also recommended to decrease the compilation thread count with the -j1 or -j2 option instead of the default -j4 option:
+
+$ sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic -j2
+`
+Now ROS should be installed! Remember to source the new installation:
+```
+$ source /opt/ros/melodic/setup.bash
+```
+Or optionally source the setup.bash in the ~/.bashrc, so that ROS environment variables are automatically added to your bash session every time a new shell is launched:
+```
+$ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+```
