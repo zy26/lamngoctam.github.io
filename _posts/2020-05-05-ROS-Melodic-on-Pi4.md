@@ -11,6 +11,42 @@ tags:
 ### This is tutorial how to install ROS Melodic on Raspberry Pi4B.
 
 ## 1.Install Ubuntu 18.04 on Pi4
+### 1.1.Official Ubuntu 18.04
+1. Download from https://ubuntu.com/download/raspberry-pi
+  - Following their guide but I got the error 
+  ```
+  [FAILED] Failed to start LOAD Kernel Module
+  ```
+2. I got the question at https://askubuntu.com/questions/779251/what-to-do-after-failed-to-start-load-kernel-modules where the author posted the same as my issue. 
+### 1.2.Unofficial Ubuntu 18.04 by James A.Chambers
+1. Install Raspbian for Raspberry 4 from https://www.raspberrypi.org/downloads/
+2. We can use a 16GB SD card for updating Firmware for Raspberry 4 using Raspbian!
+```
+sudo apt-get update && sudo apt-get dist-upgrade -y
+sudo rpi-update
+```
+3. We need to check for bootloader updates. We do this using the new rpi-eeprom utility. The following command will check for updates:
+```
+sudo rpi-eeprom-update -a
+```
+4. Download the precompiled image see the releases section located at https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
+4. Using Etcher to burn the image to new SD card (64GB).
+5. Insert SD card to Pi4 (connect Keyboard, Mouse, Internet cable and Power)
+6. Following commands to install:
+```
+Username: ubuntu
+Password: ubuntu
+```
+7. Updating the latest kernel/firmware/modules/fixes
+```
+cd /home 
+sudo rm /etc/imgrelease 
+sudo ./Updater.sh
+```
+8. Install Full Ubuntu Desktop Version
+```
+sudo apt-get update && sudo apt-get dist-upgrade -y && sudo apt-get install ubuntu-desktop -y
+```
 
 ## 2.Install ROS Melodic on Pi4
 ### 2.1.Setup ROS Repositories
@@ -146,3 +182,5 @@ $ source ~/ros_catkin_ws/install_isolated/setup.bash
 1. https://qengineering.eu/install-ubuntu-18.04-on-raspberry-pi-4.html
 2. http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi
 3. https://www.instructables.com/id/Getting-Started-With-ROS-Melodic-on-Raspberry-Pi-4/
+4. https://jamesachambers.com/raspberry-pi-4-ubuntu-server-desktop-18-04-3-image-unofficial/
+5. https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
