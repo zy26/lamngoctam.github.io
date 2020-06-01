@@ -12,14 +12,14 @@ tags:
 
 ## 1.Install Ubuntu 18.04 on Pi4
 ### 1.1.Official Ubuntu 18.04
-1. Download from https://ubuntu.com/download/raspberry-pi
+1. Download from [ubuntu.com](https://ubuntu.com/download/raspberry-pi)
   - Following their guide but I got the error 
   ```
   [FAILED] Failed to start LOAD Kernel Module
   ```
-2. I got the question at https://askubuntu.com/questions/779251/what-to-do-after-failed-to-start-load-kernel-modules where the author posted the same as my issue. 
+2. I got the question at [askubuntu.com](https://askubuntu.com/questions/779251/what-to-do-after-failed-to-start-load-kernel-modules) where the author posted the same issue as I have. 
 ### 1.2.Unofficial Ubuntu 18.04 by James A.Chambers
-1. Install Raspbian for Raspberry 4 from https://www.raspberrypi.org/downloads/
+1. Install Raspbian for Raspberry 4 from [Official Rasperry](https://www.raspberrypi.org/downloads/)
 2. We can use a 16GB SD card for updating Firmware for Raspberry 4 using Raspbian!
 ```
 sudo apt-get update && sudo apt-get dist-upgrade -y
@@ -29,7 +29,7 @@ sudo rpi-update
 ```
 sudo rpi-eeprom-update -a
 ```
-4. Download the precompiled image see the releases section located at https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
+4. Download the precompiled image see the releases section located at [Github Unofficial Pi4]https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases)
 4. Using Etcher to burn the image to new SD card (64GB).
 5. Insert SD card to Pi4 (connect Keyboard, Mouse, Internet cable and Power)
 6. Following commands to install:
