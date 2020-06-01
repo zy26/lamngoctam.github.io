@@ -50,6 +50,7 @@ sudo apt-get update && sudo apt-get dist-upgrade -y && sudo apt-get install ubun
 
 ## 2.Install ROS Melodic on Pi4
 ### 2.1.Setup ROS Repositories
+Link: [wiki.ROS.Raspberry4](http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi)
 ```
 $ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 $ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
@@ -179,8 +180,8 @@ Once your workspace has been rebuilt, you should source the setup files again:
 $ source ~/ros_catkin_ws/install_isolated/setup.bash
 ```
 ### References:
-1. https://qengineering.eu/install-ubuntu-18.04-on-raspberry-pi-4.html
-2. http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi
-3. https://www.instructables.com/id/Getting-Started-With-ROS-Melodic-on-Raspberry-Pi-4/
-4. https://jamesachambers.com/raspberry-pi-4-ubuntu-server-desktop-18-04-3-image-unofficial/
-5. https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases
+1. [Ubuntu18.04 on Pi - Q-engineering](https://qengineering.eu/install-ubuntu-18.04-on-raspberry-pi-4.html)
+2. [ROS Melodic on Raspberry 4 - Wiki ROS](http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi)
+3. [Starting ROS Melodic on Pi4 - Instructables](https://www.instructables.com/id/Getting-Started-With-ROS-Melodic-on-Raspberry-Pi-4/)
+4. [Unofficial Ubuntu 18.04 on Pi4 - Tutorial](https://jamesachambers.com/raspberry-pi-4-ubuntu-server-desktop-18-04-3-image-unofficial/)
+5. [Unofficial Ubuntu 18.04 on Pi4 - Github for Image](https://github.com/TheRemote/Ubuntu-Server-raspi4-unofficial/releases)
