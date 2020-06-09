@@ -28,6 +28,8 @@ Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Not
   - [x] Week1
   - [x] Week2 3 4
   ![alttext](/assets/images/NNDL.png)
+- 5.CNNs
+  ![alttext](/assets/images/CNNs.png)
   
 ### Robotics
 - 1.Motion Planning - Path Planning
@@ -38,5 +40,7 @@ Link to [lists of courses](https://lamngoctam.github.io/blog/DoingCourses/). Not
   - [x] Week3
   - [x] Week4
   ![alttext](/assets/images/Perception.png)
-- 3.Introduction to Self-Driving Car
-  - [ ] [Doing]()
+- 3.Self-Driving Car
+  - Introduction to Self-Driving Car
+  ![alttext](/assets/images/IntroSelfDriving.png)
+  - [ ] [Motion Planning]()
