@@ -2,6 +2,8 @@
 title: "SELF-DRIVING CAR ENGINEER NANODEGREE PROGRAM"
 date: 2020-06-12
 categories:
+  - course
+tags:
   - Self-driving car
 ---
 
